@@ -2454,7 +2454,7 @@
 		)
 		(fp_line
 			(start 4.57 4.6)
-			(end 4.57 7.5)
+			(end 4.57 5.6)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -2464,7 +2464,7 @@
 		)
 		(fp_line
 			(start -4.57 4.6)
-			(end -4.57 7.5)
+			(end -4.57 5.6)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -2604,7 +2604,7 @@
 			(net "GND")
 			(uuid "fd2a40c8-369c-4a50-b45f-2a1207d7ba06")
 		)
-		(pad "S1" thru_hole circle
+		(pad "SH" thru_hole circle
 			(at -4.3 3.5 90)
 			(size 1.6 1.6)
 			(drill 1)
@@ -2613,7 +2613,7 @@
 			(net "GND")
 			(uuid "fa8cacb5-b66b-4b7f-8b62-275fb2f53e5c")
 		)
-		(pad "S1" thru_hole circle
+		(pad "SH" thru_hole circle
 			(at 4.3 3.5 90)
 			(size 1.6 1.6)
 			(drill 1)
@@ -3156,7 +3156,7 @@
 		(descr "Resistor, Axial_DIN0207 series, Axial, Vertical, pin pitch=2.54mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0207 series Axial Vertical pin pitch 2.54mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
 		(property "Reference" "R10"
-			(at 1.27 -2.37 180)
+			(at 1.27 2.4 180)
 			(layer "F.SilkS")
 			(uuid "b66ef9b5-cd96-4f25-a181-9c02d797900d")
 			(effects
